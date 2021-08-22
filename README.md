@@ -10,3 +10,6 @@ GIVEN a user is on Budget App without an internet connection
 WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
+## Example
+https://drive.google.com/file/d/1v3qE3CFo6UlSMrkdSo0VU-8V_UHpDq1t/view
+
